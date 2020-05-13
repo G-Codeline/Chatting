@@ -23,6 +23,6 @@
 >./client ip -port   
 
 #效果展示   
-![avatar](G:\VMware workstation\Share\GCodeline\ChattingRoom\datum\ChattingRoom.png)
+![avatar](datum\ChattingRoom.png)
 
 参考资料: Linux高性能服务器编程 - 游双 
