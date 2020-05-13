@@ -12,8 +12,9 @@
 
 *编译*
 
-> g++ -o client chatRoom_Client.cpp
-> g++ -o server chatRoom_Server.cpp
+> g++ -o client chatRoom_Client.cpp   
+> g++ -o server chatRoom_Server.cpp   
+
 *先运行服务器程序*   
 
 >./server -ip -port -userlimit   
