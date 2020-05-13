@@ -23,6 +23,6 @@
 >./client ip -port   
 
 #效果展示   
-![avatar](\datum\ChattingRoom.png)
+![avatar](https://github.com/G-Codeline/Chatting/tree/master/datum/ChattingRoom.png)
 
 参考资料: Linux高性能服务器编程 - 游双 
